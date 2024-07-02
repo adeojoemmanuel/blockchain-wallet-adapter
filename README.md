@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+```the inspiration behind this package is to allow a seemless integration between multiple blockchains, either evm or solana base, with an initial definition of implementing the phantom  DeepLink with user authorization ```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
