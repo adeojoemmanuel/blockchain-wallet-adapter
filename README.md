@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 ```
-the inspiration behind this package is to develop a versatile wallet adapter designed to support multiple blockchain networks, ensuring seamless integration and functionality across various chain types
+the inspiration behind this package is to develop a versatile wallet adapter designed to support multiple blockchain networks, ensuring seamless integration and functionality across various chain types. This adapter enables blockchain wallet connections on mobile devices, featuring a secure login and requiring an authorization token to access the current route. It uses a custom deeplink to carry the authorization token, enhancing security and user experience. Recognizing that most decentralized apps (dApps) do not use traditional Web2 authentication, this adapter mitigates login issues that may arise when a user attempts to connect their wallet before logging in. For more details on this challenge, refer to this issue.
 ```
 ## current support
   - phantom
