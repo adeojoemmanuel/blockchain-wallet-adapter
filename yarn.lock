@@ -2065,6 +2065,11 @@
     prop-types "^15.7.2"
     react-is "^16.8.0 || ^17.0.0"
 
+"@metamask/detect-provider@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@metamask/detect-provider/-/detect-provider-2.0.0.tgz#4bc2795e5e6f7d8b84b2e845058d2f222c99917d"
+  integrity sha512-sFpN+TX13E9fdBDh9lvQeZdJn4qYoRb/6QF2oZZK/Pn559IhCFacPMU1rMuqyXoFQF3JSJfii2l98B87QDPeCQ==
+
 "@metamask/rpc-errors@^5.1.1":
   version "5.1.1"
   resolved "https://registry.yarnpkg.com/@metamask/rpc-errors/-/rpc-errors-5.1.1.tgz#f82732ad0952d34d219eca42699c0c74bee95a9e"

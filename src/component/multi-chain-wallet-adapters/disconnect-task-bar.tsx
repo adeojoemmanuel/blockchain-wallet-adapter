@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import TaskBox from '../task-box/task-box';
+import TaskBox from '../connection-box/task-box';
 import styles from './wallet-button.module.scss';
 import ContentCopyIcon from '@mui/icons-material/ContentCopy';
 import DeleteIcon from '@mui/icons-material/Delete';

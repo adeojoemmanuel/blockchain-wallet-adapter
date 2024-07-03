@@ -1,6 +1,6 @@
 'use client';
 import styles from './task-box.module.scss';
-import TaskPill from '../task-pill/task-pill';
+import TaskPill from '../connection-status/connection-status';
 const golos_text = '';
 export const TaskBoxTypes = {
   Simple: 0,
@@ -56,7 +56,7 @@ export default function TaskBox({
     </>
   );
 
-  if (type == TaskBoxTypes.Header_Large) {
+  if (type === TaskBoxTypes.Header_Large) {
     content = (
       <>
         <div

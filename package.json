@@ -8,6 +8,7 @@
     "@fontsource/golos-text": "^5.0.13",
     "@fontsource/inconsolata": "^5.0.18",
     "@material-ui/core": "^4.12.4",
+    "@metamask/detect-provider": "^2.0.0",
     "@mui/icons-material": "^5.15.21",
     "@mui/material": "^5.15.21",
     "@solana/wallet-adapter-react": "^0.15.35",

@@ -93,3 +93,11 @@ export interface WrongWalletTaskBoxProps {
   onClickConnect: () => void;
   buttonText: string;
 }
+
+export type Route = {
+  path: string;
+  isNavigationItem?: boolean;
+  isProtected?: boolean;
+  label?: string;
+  permissions?: string[];
+};
