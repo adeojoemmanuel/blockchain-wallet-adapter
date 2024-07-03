@@ -1,9 +1,11 @@
 # Getting Started with Create React App
 
 ```
-the inspiration behind this package is to allow a seemless integration between multiple blockchains, either evm or solana base, with an initial implementation of the phantom DeepLink with user authorization 
+the inspiration behind this package is to develop a versatile wallet adapter designed to support multiple blockchain networks, ensuring seamless integration and functionality across various chain types
 ```
-
+## current support
+  - phantom
+  - phantom with custom deeplink (allows a user to pass an authorization key)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
