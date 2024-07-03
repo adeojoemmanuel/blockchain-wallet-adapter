@@ -1,6 +1,6 @@
 import React, { FC } from 'react';
 import PropTypes from 'prop-types';
-import TaskBox from '../task-box/task-box';
+import TaskBox from '../connection-box/task-box';
 import styles from './wallet-button.module.scss';
 import { WrongWalletTaskBoxProps } from './../../types/wallet-types';
 

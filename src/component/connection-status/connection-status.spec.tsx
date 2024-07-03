@@ -1,8 +1,8 @@
 import { render } from '@testing-library/react';
 
-import TaskPill from './task-pill';
+import TaskPill from './connection-status';
 
-describe('TaskPill', () => {
+describe('ConnectionStatus', () => {
   it('should render successfully', () => {
     const TaskPillProps = {
       completed: false,
